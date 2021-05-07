@@ -43,5 +43,3 @@ def proccess_money():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
-s3tr = "asfsaf"
